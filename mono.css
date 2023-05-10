@@ -3049,7 +3049,7 @@
   height: 12px;
 }
 .mono-rectangle13 {
-  top: 100px;
+  top: 138px;
   right:10%;
   width: 500px;
   height: 500px;
@@ -3117,7 +3117,7 @@
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
-  background:lavenderblush;
+  background: #e1d8e6;
 }
 .mono-framefooter {
   bottom:0px;
